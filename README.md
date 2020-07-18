@@ -8,5 +8,5 @@
 **Early Preview Screenshots**
 
 **Home Screen**
-![home](./screenshots/home_view.jpg=100x40)
-![home](./screenshots/home_expanded.jpg=100x40)
+![home](./screenshots/home_view.jpg =100x40)
+![home](./screenshots/home_expanded.jpg =100x40)
