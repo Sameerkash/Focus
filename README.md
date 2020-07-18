@@ -1,4 +1,4 @@
-# FOCUS
+# FOCUS ⚡
 
 #### Focus is a minimalist android Home Screen launcher aimed at productivity and distraction free mobile use.
 
