@@ -9,6 +9,6 @@
 
 **Home Screen**
 
-<img src="./screenshots/home_view.jpg" alt="drawing" width="40" height="100"/> &nbsp &nbsp  <img src="./screenshots/home_expanded.jpg" alt="drawing" width="40" height="100"/>
+<img src="./screenshots/home_view.jpg" alt="drawing" width="400" height="1000"/> &nbsp; &nbsp;  <img src="./screenshots/home_expanded.jpg" alt="drawing" width="400" height="1000"/>
 
 
