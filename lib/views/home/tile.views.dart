@@ -52,13 +52,20 @@ class TaskListView extends StatelessWidget {
         "Your tasks to be done",
         style: Theme.of(context).textTheme.headline2,
       ),
-      expanded: ListView.builder(
+      expanded: ListView.separated(
         physics: NeverScrollableScrollPhysics(),
         shrinkWrap: true,
         itemCount: 5,
         itemBuilder: (context, index) {
           return CustomCheckboxTile(
             index: index,
+          );
+        },
+        separatorBuilder: (_, __) {
+          return Divider(
+            height: 1,
+            thickness: 2,
+            color: Colors.deepPurple,
           );
         },
       ),
